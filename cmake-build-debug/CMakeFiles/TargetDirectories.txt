@@ -1,0 +1,3 @@
+D:/source/repos/ORGANISATIONS/University & Academia/CLionProjects/Basic File Editor 32/cmake-build-debug/CMakeFiles/Basic_File_Editor_32.dir
+D:/source/repos/ORGANISATIONS/University & Academia/CLionProjects/Basic File Editor 32/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/source/repos/ORGANISATIONS/University & Academia/CLionProjects/Basic File Editor 32/cmake-build-debug/CMakeFiles/rebuild_cache.dir
